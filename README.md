@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://onecany">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);江小生祝您今天愉快!&center=true&size=27">
+  <a href="https://github.com/onecany">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);江小生祝您今天愉快!&center=true&size=20">
   </a>
 
 
@@ -62,7 +62,6 @@ mindmap
       风景
     旅行
       苏州
-      杭州
       深圳
       贵阳
       宁波
@@ -70,30 +69,14 @@ mindmap
       人物传记
       个人成长
       社会文化
-      心理
-      计算机技术
+      心理学
+      计算机科学
 ```
 
 <!-- just img 图片 -->
 <img src="https://github.com/onecany/onecany/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
-💪 正在学习
-
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-
-![golang Badge](https://img.shields.io/badge/Golang-47A248?logo=golang&logoColor=fff&style=flat)
-
-![pytorch Badge](https://img.shields.io/badge/Pytorch-092E20?logo=pytorch&logoColor=fff&style=flat)
-  
-</br>
-
 🧠🧰 常用的工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
@@ -105,9 +88,10 @@ mindmap
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=python,mysql,css,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=python,golang,mysql,css,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
-<!-- svg -->
+
+<!-- svg 
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -119,6 +103,7 @@ mindmap
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+ -->
 
 <!-- all lang in one  icon-->
 <img src="https://github.com/onecany/onecany/assets/images/icon.png" /></div>
@@ -127,9 +112,9 @@ mindmap
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onecany&theme=dark&hide_border=true)(https://github.com/onecany)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onecany&theme=dark&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=onecany)](https://github.com/onecany)
+![pytorch](https://github-profile-trophy.vercel.app/?username=onecany)
 
 
 
@@ -144,7 +129,3 @@ mindmap
 <div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=onecany&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
-
-[![江小生's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=onecany&theme=xcode)](https://github.com/onecany)
-
-![](https://visitor-badge.glitch.me/badge?page_id=onecany)
