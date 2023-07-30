@@ -74,7 +74,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://github.com/onecany/onecany/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://raw.githubusercontent.com/onecany/onecany/main/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 🧠🧰 常用的工具
@@ -93,7 +93,7 @@ mindmap
 
 
 <!-- all lang in one  icon-->
-<img src="https://github.com/onecany/onecany/assets/images/icon.png" /></div>
+<img src="https://raw.githubusercontent.com/onecany/onecany/main/assets/images/icon.png" /></div>
 
 
 
