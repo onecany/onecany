@@ -32,6 +32,12 @@
 </table>
 <br>
 
+
+<!-- just img 图片 -->
+<img src="https://raw.githubusercontent.com/onecany/onecany/main/assets/moves.gif" alt="what is coder?" width="250" height="250" />
+
+
+
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
