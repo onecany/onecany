@@ -34,7 +34,7 @@
 
 
 <!-- just img 图片 -->
-<img src="https://raw.githubusercontent.com/onecany/onecany/main/assets/moves.gif" alt="what is coder?" width="680" height="428" />
+<img src="https://raw.githubusercontent.com/onecany/onecany/main/assets/moves.gif" alt="what is coder?" width="428" height="680" />
 
 
 
